@@ -1,10 +1,10 @@
-# \# ~~Simple~~ README file
+# ~~Simple~~ README file
 
-# \# Git Practice Project
+# Git Practice Project
 
 # 
 
-# Цей проєкт створений для практичного ознайомлення з основами \*\*Git\*\*, \*\*GitHub\*\* та \*\*Markdown\*\*.
+# Цей проєкт створений для практичного ознайомлення з основами **Git**, **GitHub** та **Markdown**.
 
 
 
